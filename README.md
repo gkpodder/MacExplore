@@ -1,5 +1,7 @@
 Link to application: [Mac Explore](https://mac-explore.netlify.app/)
 
+![alt text](https://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/001/798/642/datas/gallery.jpg)
+
 ## Inspiration
 
 Imagine it's your first day in university. You’re in a new town with new faces, new places, and new laces(it rhymes). You have absolutely no idea where anything is like restaurants, local attractions, or student housing opportunities. That is the reality that millions of freshmen face each and every year. Many like myself would have appreciated a resource that could recommend them the best local amenities around their campus from a student’s perspective. And this is what lead me to create…..Mac explore!!!
